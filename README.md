@@ -1,4 +1,6 @@
 # Computer-Vision
+![image](https://github.com/mjmaher987/Computer-Vision/assets/77095635/47261a32-6d71-4f84-8653-f3d3bee7da54)
+
 This repository is under construction - will be updated at the end of each deadline
 
 ## About
@@ -32,4 +34,6 @@ This is the repository related to 3d Vision course, taught by Professor Shohreh 
 ![image](https://github.com/mjmaher987/Computer-Vision/assets/77095635/c3dc03ca-7c09-49bf-930d-56b62e1bb59e)
 
 
+## References
+- [Link 1](https://miro.medium.com/max/2000/1*5lVCJ0SFVvOc4h2rta-7yg.jpeg)
 
