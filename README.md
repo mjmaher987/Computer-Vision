@@ -33,6 +33,16 @@ This is the repository related to 3d Vision course, taught by Professor Shohreh 
   
 ![image](https://github.com/mjmaher987/Computer-Vision/assets/77095635/c3dc03ca-7c09-49bf-930d-56b62e1bb59e)
 
+## 2D to 3D Images
+### Rotation Visualization of Quaternion
+![image](https://github.com/mjmaher987/Computer-Vision/assets/77095635/c5dc3f09-e1d4-4d1f-bed7-51887cfdeeec)
+### Camera Pose and 3D to 2D Projection
+![image](https://github.com/mjmaher987/Computer-Vision/assets/77095635/ad200e7c-07b0-48e4-bbc2-b37fdb55912a)
+### Image Mosaicing
+![52506f4c-9249-4cb7-917e-b79a4188fea5](https://github.com/mjmaher987/Computer-Vision/assets/77095635/4b996d10-5076-480b-8788-9fa9270b2f40)
+
+
+
 
 ## References
 - [Link 1](https://miro.medium.com/max/2000/1*5lVCJ0SFVvOc4h2rta-7yg.jpeg)
